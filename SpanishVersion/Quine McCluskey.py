@@ -1,5 +1,6 @@
 # Algoritmo de Quinne McCluskey para minimización de expresiones lógicas
 # Author: Suman Adhikari
+# Traduction: Fernando Arturo Medina Molina.
 
 def mul(x,y): # Multiplica 2 mintérminos
     res = []
@@ -17,7 +18,7 @@ def multiplica(x,y): # Multiplica 2 expresiones
     res = []
     for i in x:
         for j in y:
-            tmp = multiplica0,2,8,10,11,20,21,22,23,26,27,28(i,j)
+            tmp = multiplica(i,j)
             res.append(tmp) if len(tmp) != 0 else None
     return res
 
