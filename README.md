@@ -23,3 +23,9 @@ Here is the scrrenshot of an example:
 ![Quine McCluskey Algoritm Solved Example](https://github.com/int-main/Quine-McCluskey/blob/master/Example.jpg)
 
 Hope you enjoy it :)
+
+Note:
+
+A Spanish version of the program is also available now which is initially translated by @fernando170 (https://github.com/int-main/Quine-McCluskey/commits?author=fernando170):
+
+https://github.com/int-main/Quine-McCluskey/tree/master/SpanishVersion
